@@ -7,6 +7,7 @@
 ### 01. 학사 정보 관리 ERD
 
 [링크]
+https://drive.google.com/file/d/1T74VB8hJjDjPT-BPkaI0YcejCDC2HFxD/view?usp=sharing
 
 [사진]
 
