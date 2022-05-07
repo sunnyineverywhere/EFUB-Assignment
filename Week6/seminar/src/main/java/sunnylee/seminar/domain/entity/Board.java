@@ -4,13 +4,9 @@ import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.springframework.data.annotation.Id;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.EntityListeners;
-import javax.persistence.GeneratedValue;
+import javax.persistence.*;
 
 @Getter // 클래스 내 모든 필드 Getter 메소드 자동 생성
 @Entity // 테이블과 링크될 클래스
